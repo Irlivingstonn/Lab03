@@ -21,14 +21,14 @@
 2. $HOME/.bashrc
 3. Command: mkdir bin
    - Full path: /home/ubuntu/ceg2350-ilivingstonn/Lab03
-4. PATH =
-   - Difference:
+4. PATH = $HOME/.local/bin:$PATH
+   - Difference: The path is longer than before and it goes to a private bin
 5. cp sorting-party.sh /home/ubuntu/ceg2350-ilivingstonn/Lab03/bin
 6. chmod 777 sorting-party.sh 
 7. The user, group, and others are allowed to read, write, and execute the script
 
 ## Extra Credit
 
-1. Note here if you did the extra credit so the tas can verify :)
+1. I did the extra credit
 
 
