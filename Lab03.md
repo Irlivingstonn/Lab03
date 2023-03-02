@@ -17,15 +17,15 @@
 
 ## Part 5 Answers
 
-1. PATH =
-2.
-3. Command:
-   - Full path:
+1. PATH = /home/ubuntu
+2. $HOME/.bashrc
+3. Command: mkdir bin
+   - Full path: /home/ubuntu/ceg2350-ilivingstonn/Lab03
 4. PATH =
    - Difference:
-5.
-6.
-7.
+5. cp sorting-party.sh /home/ubuntu/ceg2350-ilivingstonn/Lab03/bin
+6. chmod 777 sorting-party.sh 
+7. The user, group, and others are allowed to read, write, and execute the script
 
 ## Extra Credit
 
